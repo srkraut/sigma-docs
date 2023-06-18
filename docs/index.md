@@ -1,3 +1,5 @@
+//https://xibosignage.com/manual/en/layouts -- layout dekhi ko document ya bata banaune
+//display samma ko doc chai - https://doc.sigma-ds.com/layout/introduction/
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
