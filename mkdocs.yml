@@ -1,1 +1,30 @@
-site_name: My Docs
+site_name: Sigma Docs
+theme:
+  name: mkdocs
+
+nav:
+  - Tour: 
+      - Introduction:  tour/introduction.md
+      - Login: tour/login.md
+      - Profile: tour/profile.md
+      - CMS dashboard: tour/cms-dashboard
+      - Grids: tour/grids.md
+  - Display:
+      - Display: displays/displays.md
+      - Display Setting: displays/display-setting.md
+      - Groups: displays/groups.md
+      - File/Layout Assignment: displays/file-layout.md
+  - Layouts:
+      - Introduction: layout/layout-intro.md
+      - Layout Designer: layout/layout-designers.md
+      - Regions: layout/Regions.md
+      - Widgets: layout/widgets.md
+      - Library search: layout/library-search.md
+      - Layout Timeline: layout/layout-timeline.md
+      - Interactive Actions: layout/interactive-actions.md
+      - Templates: layout/templates.md
+      - Campaigns: layout/campaign.md
+      - Overlay Layouts: layout/overlay-layouts.md
+
+
+# //https://xibosignage.com/manual/en/layouts -- layout dekhi ko document ya bata banaune //display samma ko doc chai - https://doc.sigma-ds.com/layout/introduction/
