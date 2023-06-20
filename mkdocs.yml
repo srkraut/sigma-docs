@@ -1,6 +1,6 @@
 site_name: Sigma Docs
 theme:
-  name: mkdocs
+  name: material
 
 nav:
   - Tour: 
@@ -25,6 +25,64 @@ nav:
       - Templates: layout/templates.md
       - Campaigns: layout/campaign.md
       - Overlay Layouts: layout/overlay-layouts.md
+  - Media:
+      - Introduction: media/introduction.md
+      - Library: media/library.md
+      - Tidy Library: media/tidy-library.md
+      - Resizing Images: media/resizingImages.md
+      - Playlists: media/playlists.md
+      - Data Sets: media/dataset.md
+      - Menu Boards: media/menuboards.md
+      - Dashboard Service: media/dashboard-service.md
+  - Modules:
+      - Modules: module\modules.md
+      - Agenda: module\agenda.md
+      - Audio: module\audio.md
+      - Calender: module\calender.md
+      - Chart: module\chart.md
+      - Clock: module\clock.md
+      - Countdown: module\countdown.md
+      - Currencies: module\currency.md
+      - Dashboard: module\dashboard.md
+      - Dataset Ticker: module\dataset-ticker.md
+      - Dataset View: module\dataset-view.md
+      - Embedded: module\dataset-view.md
+      - Flash: module\flash.md
+      - Google Traffic: module\dataset-view.md
+      - HLS: module\HLS.md
+      - HTML package: module\html-Package.md
+      - Image: module\image.md
+      - Local Video: module\local-video.md
+      - Menu Boards: module\menu-boards.md
+      - Notification: module\notification.md
+      - PDF: module\PDF.md
+      - Powerpoint: module\powerPoint.md
+      - Shell Command: module\shell-command.md
+      - Spacer: module\spacer.md
+      - Stocks: module\stocks.md
+      - Sub Playlist: module\sub-playlist.md
+      - Text: module\text.md
+      - Ticker: module\ticker.md
+      - Twitter: module\twitter.md
+      - Twitter Metro: module\twitter-metro.md
+      - Videos: module\video.md
+      - Video In: module\video-in.md
+      - Weather: module\weather.md
+      - Webpage: module\webpage.md
+      - Word Clock: module\worldClock.md
+  - Scheduling:
+      - Introduction: scheduling/introduction.md
+      - Schedule: scheduling/schedule.md
+      - Events: scheduling/events.md
+      - Geo Scheduling: scheduling/geo-scheduling.md
+      - Dayparting: scheduling/dayparting.md
+      - Schedule Now: scheduling/schedule-now.md
+  - Troubleshooting:
+      - Troubleshooting: troubleshooting/troubleshooting.md
+
+markdown_extensions:
+  - tables
+
 
 
 # //https://xibosignage.com/manual/en/layouts -- layout dekhi ko document ya bata banaune //display samma ko doc chai - https://doc.sigma-ds.com/layout/introduction/
