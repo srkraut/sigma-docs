@@ -8,10 +8,11 @@ theme:
     - navigation.instant.prefetch
     - navigation.tabs.sticky
     - navigation.path
+    - navigation.sections
+
 
 nav:
   - Tour: 
-      - Introduction:  tour/introduction.md
       - Login: tour/login.md
       - Profile: tour/profile.md
       - CMS dashboard: tour/cms-dashboard
