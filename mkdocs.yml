@@ -1,5 +1,4 @@
 site_name: Sigma Docs
-site_url: https://doc.sigma-ds.com/tour/introduction/
 theme:
   name: material
   palette:
@@ -43,6 +42,13 @@ nav:
       - Data Sets: media/dataset.md
       - Menu Boards: media/menuboards.md
       - Dashboard Service: media/dashboard-service.md
+  - Scheduling:
+      - Introduction: scheduling/introduction.md
+      - Schedule: scheduling/schedule.md
+      - Events: scheduling/events.md
+      - Geo Scheduling: scheduling/geo-scheduling.md
+      - Dayparting: scheduling/dayparting.md
+      - Schedule Now: scheduling/schedule-now.md
   - Modules:
       - Modules: module/modules.md
       - Agenda: module/agenda.md
@@ -79,13 +85,6 @@ nav:
       - Weather: module/weather.md
       - Webpage: module/webpage.md
       - Word Clock: module/worldClock.md
-  - Scheduling:
-      - Introduction: scheduling/introduction.md
-      - Schedule: scheduling/schedule.md
-      - Events: scheduling/events.md
-      - Geo Scheduling: scheduling/geo-scheduling.md
-      - Dayparting: scheduling/dayparting.md
-      - Schedule Now: scheduling/schedule-now.md
   - Troubleshooting:
       - Troubleshooting: troubleshooting/troubleshooting.md
 
