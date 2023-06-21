@@ -6,8 +6,6 @@ Display an agenda pulled from an iCal feed on Layouts.
 NOTE: If you are using a CMS earlier than v3.1, please use the following link: Calendar
 ```
 
-![Alt text](agenda1.png)
-
 ## Add Widget
 
 Locate Agenda from the Widget toolbar and click to Add or Grab to drag and drop to a Region.

@@ -1,7 +1,6 @@
 # Currencies
 
 Display retrieved exchange rates for currency pairs on Layouts
-![Alt text](currency1.png)
 
 ```
 The Currencies Module is configured for Xibo Cloud hosted customers with an API key provided as part of the service. Skip the Installation steps detailed below and continue from the Add Widget section.

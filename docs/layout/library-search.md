@@ -10,22 +10,30 @@ The Toolbar contains multiple Library Search options to give users an easy way t
 
 ```
 Pixabay integration is enabled by default for new Xibo in the Cloud customers.
-If you are upgrading from an earlier version you will need to enable by navigating to the Administration section of the CMS and click Applications. Scroll down the page to the Connectors section. Click to Configure and tick to enable, Save changes.
+If you are upgrading from an earlier version you will need to
+ enable by navigating to the Administration section of the CMS
+  and click Applications. Scroll down the page to the Connectors
+   section. Click to Configure and tick to enable, Save changes.
 ```
 
 ```
-Pixabay can be enabled from the Administration section of the CMS menu by clicking on Applications and scrolling down the page to the Connectors section. Click Configure and enter your API Key after signing up for a Pixabay account. PixabayAPI Documentation
+Pixabay can be enabled from the Administration section of the CMS menu
+ by clicking on Applications and scrolling down the page to the Connectors
+ section. Click Configure and enter your API Key after signing up for
+ a Pixabay account. PixabayAPI Documentation
 ```
 
 ```
-Images/videos that are selected from Pixabay to be used in Layouts will automatically be added to your Library!
+Images/videos that are selected from Pixabay to be used in Layouts
+ will automatically be added to your Library!
 ```
 
 - Click on the + icon in the top left corner of a media file to select:
   ![Alt text](library5.png)
 
 ```
-Select multiple files to add to the target Region in bulk. They will appear in the timeline in the same order they have been selected!
+Select multiple files to add to the target Region in bulk.
+ They will appear in the timeline in the same order they have been selected!
 ```
 
 - Files can also be added by drag and drop to the Region.
@@ -49,7 +57,9 @@ A Playlist view will open to add media in the same way, by clicking to add or dr
 ![Alt text](library10.png)
 
 ```
-Delete multiple items on the playlist using the purple Select Multiple Widgets button in the toolbar and then clicking on media in the timeline to select. Click the bin icon to remove all selections.
+Delete multiple items on the playlist using the purple Select Multiple
+ Widgets button in the toolbar and then clicking on media in the timeline
+ to select. Click the bin icon to remove all selections.
 ```
 
 - Exit the Playlist view by closing down the Playlist window.
@@ -82,7 +92,9 @@ If the Name field is left blank, the file will be named as per the original file
 Files can be optionally saved to Folders for easier searches, organisation and to easily set Share options for Users/User Groups.
 
 ```
-Files that are saved in Folders will inherit the View, Edit, Delete Share options that have been applied to the destination Folder for User/User Group access!
+Files that are saved in Folders will inherit the View, Edit,
+ Delete Share options that have been applied to the destination
+  Folder for User/User Group access!
 ```
 
 ## Expiry Dates
@@ -112,12 +124,11 @@ Change the Folder location using the Select Folder button as before and then cli
 - Once all files have been individually uploaded, click Done.
 
 ```
-View or make changes to Expiry Dates by clicking on the icon on the uploaded media from the Timeline!
+View or make changes to Expiry Dates by clicking on the icon on the
+uploaded media from the Timeline!
 ```
 
 ## Image Files
-
-![Alt text](library15.png)
 
 ```
 We recommend the following file formats for images:
@@ -131,8 +142,6 @@ Please see the Image page for configuration options.
 
 ## Audio Files
 
-![Alt text](libraryimg.png)
-
 ```
 We recommend the following file formats for audio:
 mp3.wav
@@ -141,8 +150,6 @@ mp3.wav
 Please see the Audio page for configuration options.
 
 ## Video Files
-
-![Alt text](libraryimg.png)
 
 ```
 We recommend the following file formats for video:

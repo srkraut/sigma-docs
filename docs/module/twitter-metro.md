@@ -1,7 +1,6 @@
 # Twitter Metro
 
 Display metro tiles of Twitter feeds on Layouts.
-![Alt text](twitterm1.png)
 
 The Twitter Metro Module provides access to the Twitter Search API. Granted access is to read data only!
 

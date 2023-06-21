@@ -1,8 +1,6 @@
 # Weather
 
 Display daily weather forecasts on Layouts.
-![Alt text](weather1.png)
-The Weather Widget provides current daily weather forecasts worldwide using a service called Open Weather Map as a source of weather data.
 
 ```
 The Weather Module is fully configured for Xibo Cloud hosted customers and is provided as part of the service.

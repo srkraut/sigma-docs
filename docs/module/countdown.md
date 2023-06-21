@@ -1,7 +1,6 @@
 # Countdown
 
 Display a countdown for a selected duration or until a specified date on Layouts.
-![Alt text](countdown1.png)
 
 ## Add Widget
 

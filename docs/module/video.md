@@ -8,7 +8,6 @@ NOTE: If you are using a CMS earlier than v3.1, please select from the links bel
 - CMS earlier than v3.0.0 please click here
 ```
 
-![Alt text](video1.png)
 Uploaded video files are cached for off-line playback which can then be added to Layouts.
 
 Video files can be uploaded to the Library or uploaded directly to Layouts using the Video Library Search function from the Toolbar in the Layout Designer.

@@ -66,8 +66,6 @@ On some devices, it is impossible to overlay anything on a Region showing a Vide
 
 At the bottom of this tab, click on the Make this Region full screen text to resize as shown by the dimensions displayed here.
 
-![Alt text](region8.png)
-
 - Select the Transitions tab to apply an Exit Transition for when the Region finishes playing.
   Exit transitions happen when the last media item in a Region is shown and occurs only when all other media items have expired in the other Regions.
 
@@ -83,7 +81,7 @@ Please note: The owner of the Layout has full control over sharing.
 ```
 
 - Assign and Edit Share options by right clicking on the target Region to open the form:
-  ![Alt text](region9.png)
+  ![Alt text](region10.png)
 
 ```
 Alternatively Share options can be accessed from the context menu at the bottom of the viewer!

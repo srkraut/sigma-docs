@@ -1,7 +1,6 @@
 # Text
 
 Add text to display on Layouts.
-![Alt text](text1.png)
 
 ## Add Widget
 

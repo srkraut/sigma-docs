@@ -1,7 +1,6 @@
 # Clock
 
 Display an analogue, flip or digital clock in Layouts.
-![Alt text](clock1.png)
 
 # Add Widget
 

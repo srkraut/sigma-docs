@@ -1,7 +1,6 @@
 # Widgets
 
 Add content to Layouts using the variety of Widgets available from the Toolbar in the Layout Designer:
-![Alt text](widget1-1.png)
 
 ```
 Widgets that are available can be disabled/enabled by an Administrator in the Modules section of the CMS.

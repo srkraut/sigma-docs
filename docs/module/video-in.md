@@ -1,7 +1,7 @@
 # Video In
 
 Display input from an external source on SoC Displays.
-![Alt text](videoIn1.png)
+
 Android only supports Phillips monitors to utilise this Widget!
 
 ## Add Widget

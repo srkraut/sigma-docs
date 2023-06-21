@@ -1,7 +1,5 @@
 # Interactive Actions
 
-![Alt text](interactiveimg.png)
-
 Actions can be attached to an entire Layout a particular Region or specific Widget and can be used to effect changes to the Layout. These can be triggered by Touch or Click or programmatically by webhook.
 
 ```

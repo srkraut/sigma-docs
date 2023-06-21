@@ -8,7 +8,6 @@ Display DataSet information as one of the chart types below:
 - Donut
 - Horizontal Bar
 - Radar
-  ![Alt text](chart1.png)
   DataSets need to be created and defined prior to adding the Chart Widget to Layouts. Please see the DataSet page for further information.
 
 ## Add Widget

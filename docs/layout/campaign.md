@@ -40,8 +40,6 @@ Tags and Folders can also be assigned to multiple Campaigns using the With Selec
 
 ## Cycle Based Playback
 
-![Alt text](campaign3.png)
-
 - Optionally enable cycle based playback for the Campaign.
 - If enabled, provide a Play Count to determine how many ‘plays’ a Layout should have before moving onto the next Layout in the Campaign.
   When you schedule a Campaign with cycle playback enabled, each time the scheduled event appears only 1 Layout will be shown for the set count from the Campaign.

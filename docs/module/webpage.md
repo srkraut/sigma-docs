@@ -1,7 +1,6 @@
 # Webpage
 
 Display content from a webpage.
-![Alt text](webpage1.png)
 
 ## Widget Overview:
 

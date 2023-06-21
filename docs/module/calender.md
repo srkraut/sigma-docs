@@ -6,8 +6,6 @@ Display a Schedule, Daily, Weekly or Monthly calendar views pulled from an iCal 
 NOTE: If you are using a CMS earlier than v3.1, please click here
 ```
 
-![Alt text](calender1.png)
-
 # Add Widget
 
 Locate Calendar from the Widget toolbar and click to Add or Grab to drag and drop to a Region.

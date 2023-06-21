@@ -1,7 +1,7 @@
 # Twitter
 
 Display Twitter feeds on Layouts.
-![Alt text](twitter1.png)
+
 The Twitter Module provides access to the Twitter Search API. Granted access is to read data only!
 
 ```

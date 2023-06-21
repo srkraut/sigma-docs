@@ -8,7 +8,6 @@ NOTE: If you are using a CMS version earlier than 3.1, please use the links belo
 - CMS earlier than v3.0.0 please click here
 ```
 
-![Alt text](audio1.png)
 Uploaded audio files are cached for off-line playback which can then be added to Layouts.
 
 Audio files can be uploaded to the Library or uploaded directly to Layouts using the Audio Library Search function from the Toolbar in the Layout Designer.

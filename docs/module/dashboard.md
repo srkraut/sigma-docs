@@ -3,7 +3,6 @@
 The Dashboards Widget is used to display Dashboards that have been configured to use the Dashboards Service
 
 Please note: This commercial Widget is part of the Xibo Dashboard Service available from v3.2.0 and requires an API for configuration as further explained here
-![Alt text](dashboard1.png)
 
 ## Add Widget
 

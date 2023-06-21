@@ -1,7 +1,6 @@
 # World Clock
 
 Display multiple clocks and timezones on Layouts.
-![Alt text](clock11.png)
 
 ```
 If you are using a v3.0.x CMS, the World Clock Widget is only available on request by contacting our Help desk via My Account
