@@ -36,41 +36,41 @@ nav:
       - Menu Boards: media/menuboards.md
       - Dashboard Service: media/dashboard-service.md
   - Modules:
-      - Modules: module\modules.md
-      - Agenda: module\agenda.md
-      - Audio: module\audio.md
-      - Calender: module\calender.md
-      - Chart: module\chart.md
-      - Clock: module\clock.md
-      - Countdown: module\countdown.md
-      - Currencies: module\currency.md
-      - Dashboard: module\dashboard.md
-      - Dataset Ticker: module\dataset-ticker.md
-      - Dataset View: module\dataset-view.md
-      - Embedded: module\embedded.md
-      - Flash: module\flash.md
-      - Google Traffic: module\google-traffic.md
-      - HLS: module\HLS.md
-      - HTML package: module\html-Package.md
-      - Image: module\image.md
-      - Local Video: module\local-video.md
-      - Menu Boards: module\menu-boards.md
-      - Notification: module\notification.md
-      - PDF: module\PDF.md
-      - Powerpoint: module\powerPoint.md
-      - Shell Command: module\shell-command.md
-      - Spacer: module\spacer.md
-      - Stocks: module\stocks.md
-      - Sub Playlist: module\sub-playlist.md
-      - Text: module\text.md
-      - Ticker: module\ticker.md
-      - Twitter: module\twitter.md
-      - Twitter Metro: module\twitter-metro.md
-      - Videos: module\video.md
-      - Video In: module\video-in.md
-      - Weather: module\weather.md
-      - Webpage: module\webpage.md
-      - Word Clock: module\worldClock.md
+      - Modules: module/modules.md
+      - Agenda: module/agenda.md
+      - Audio: module/audio.md
+      - Calender: module/calender.md
+      - Chart: module/chart.md
+      - Clock: module/clock.md
+      - Countdown: module/countdown.md
+      - Currencies: module/currency.md
+      - Dashboard: module/dashboard.md
+      - Dataset Ticker: module/dataset-ticker.md
+      - Dataset View: module/dataset-view.md
+      - Embedded: module/embedded.md
+      - Flash: module/flash.md
+      - Google Traffic: module/google-traffic.md
+      - HLS: module/HLS.md
+      - HTML package: module/html-Package.md
+      - Image: module/image.md
+      - Local Video: module/local-video.md
+      - Menu Boards: module/menu-boards.md
+      - Notification: module/notification.md
+      - PDF: module/PDF.md
+      - Powerpoint: module/powerPoint.md
+      - Shell Command: module/shell-command.md
+      - Spacer: module/spacer.md
+      - Stocks: module/stocks.md
+      - Sub Playlist: module/sub-playlist.md
+      - Text: module/text.md
+      - Ticker: module/ticker.md
+      - Twitter: module/twitter.md
+      - Twitter Metro: module/twitter-metro.md
+      - Videos: module/video.md
+      - Video In: module/video-in.md
+      - Weather: module/weather.md
+      - Webpage: module/webpage.md
+      - Word Clock: module/worldClock.md
   - Scheduling:
       - Introduction: scheduling/introduction.md
       - Schedule: scheduling/schedule.md
