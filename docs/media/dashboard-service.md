@@ -1,6 +1,6 @@
 # Dashboard Service
 
-The Xibo Dashboards Service is a commercial feature which allows Users to securely display dashboard services; Microsoft Power BI, Grafana and Matomo, on Layouts with automation and authentication handled by Xibo.
+The Sigma-DS Dashboards Service is a commercial feature which allows Users to securely display dashboard services; Microsoft Power BI, Grafana and Matomo, on Layouts with automation and authentication handled by Sigma-DS.
 
 Please note: This commercial feature is available from v3.2.0 and requires an API for configuration as further explained here.
 
@@ -23,7 +23,7 @@ From the CMS:
 - Tick to Enable to start providing the dashboard services
   ![Alt text](dashboard2.png)
 - Click to Save.
-- Click the Configure button again for the Xibo Dashboard service connector.
+- Click the Configure button again for the Sigma-DS Dashboard service connector.
 
 - Using the Credentials section of the form, select the dashboard service(s) you wish to use:
   ![Alt text](dashboard3.png)
@@ -38,7 +38,7 @@ From the CMS:
 Grafana does not support multi factor authentication, so please leave
  the Two Factor Secret field empty when configuring this - integration.
  Please see the following page for further information on obtaining a
-  URL to use with this service, supported authentication - mechanisms and possible limitations Xibo Dashboard Service
+  URL to use with this service, supported authentication - mechanisms and possible limitations Sigma-DS Dashboard Service
 ```
 
 - Click to Save and wait a few moments whilst those credentials are successfully registered.

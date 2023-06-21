@@ -16,7 +16,7 @@ It has 3 options to display PowerPoint PPT files.
 
 ## Option 1 - Export as a Video
 
-From Office 2010 onwards PowerPoint presentations can be exported as Video files which can then be uploaded to Xibo and played using the Video Widget.
+From Office 2010 onwards PowerPoint presentations can be exported as Video files which can then be uploaded to Sigma-DS and played using the Video Widget.
 
 ## Export PowerPoint file
 
@@ -54,7 +54,7 @@ PowerPoint will, by default, put scroll bars up the side of your presentation, u
 3. Under “Show Type”, choose “Browsed by an individual (window)” and then untick “Show scrollbar”
 4. Click OK
 5. Save the Presentation
-6. Please note that Xibo will not advance the slides in a Presentation, so you should record automatic slide timings by going to “Slide Show -> Rehearse Timings” and then save the presentation.
+6. Please note that Sigma-DS will not advance the slides in a Presentation, so you should record automatic slide timings by going to “Slide Show -> Rehearse Timings” and then save the presentation.
 
 ## Add Widget
 
@@ -139,7 +139,7 @@ Interactive Actions can be attached to this Powerpoint Widget from the Actions t
 
 ## Prepare your Windows Players
 
-Install PowerPoint on your Windows PC alongside your Xibo Player and make the following adjustments to the Windows Registry to disable the windows prompt when opening the PowerPoint. Please ensure you have taken all necessary precautions when making these changes.
+Install PowerPoint on your Windows PC alongside your Sigma-DS Player and make the following adjustments to the Windows Registry to disable the windows prompt when opening the PowerPoint. Please ensure you have taken all necessary precautions when making these changes.
 
 ```
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12]
@@ -159,7 +159,7 @@ Install PowerPoint on your Windows PC alongside your Xibo Player and make the fo
 "EditFlags"=dword:00010000
 ```
 
-If you do not feel comfortable changing the registry it may be possible to achieve the same results by waiting for Xibo to open the first PowerPoint and then when the pop-up notification appears, choose to “Open” the file, and un-check the box so you won’t be prompted again.
+If you do not feel comfortable changing the registry it may be possible to achieve the same results by waiting for Sigma-DS to open the first PowerPoint and then when the pop-up notification appears, choose to “Open” the file, and un-check the box so you won’t be prompted again.
 
 ## Enable PowerPoint on Displays
 
@@ -170,7 +170,7 @@ Navigate to Display Settings under the Displays section of the Main menu and loc
 
 ## Advanced Steps
 
-When displaying PowerPoint, Xibo is relying on Windows and PowerPoint to display the content. This means that error capture and reporting is outside the control of Xibo. To mitigate any issues we recommend disabling Windows error notifications. This can be done by following the steps here.
+When displaying PowerPoint, Sigma-DS is relying on Windows and PowerPoint to display the content. This means that error capture and reporting is outside the control of Sigma-DS. To mitigate any issues we recommend disabling Windows error notifications. This can be done by following the steps here.
 
 If you still experience issues, it may also be advisable to disable Office Application Error reporting by merging the registry patch below.
 

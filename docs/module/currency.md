@@ -3,10 +3,10 @@
 Display retrieved exchange rates for currency pairs on Layouts
 
 ```
-The Currencies Module is configured for Xibo Cloud hosted customers with an API key provided as part of the service. Skip the Installation steps detailed below and continue from the Add Widget section.
+The Currencies Module is configured for Sigma-DS Cloud hosted customers with an API key provided as part of the service. Skip the Installation steps detailed below and continue from the Add Widget section.
 ```
 
-Non-Xibo Cloud hosted customers please follow the Installation steps as detailed below.
+Non-Sigma-DS Cloud hosted customers please follow the Installation steps as detailed below.
 
 ## Installation
 
@@ -79,7 +79,7 @@ The template will be automatically scaled and should be designed for the intende
 - All elements must use absolute sizing in px, including fonts, margins, widths, heights, etc
 - If positioning is used, it must be from top,left
 - Templates can use bootstrap
-- The aspect ratio will be fixed by Xibo and sized to fit the Region
+- The aspect ratio will be fixed by Sigma-DS and sized to fit the Region
 - Templates are treated the same as a static image
 ```
 
@@ -116,6 +116,6 @@ Interactive Actions can be attached to this Currencies Widget from the Actions t
 
 ## Additional Information
 
-Xibo should accept any date format that is in a correct PHP date format, the following characters are recognised and can be used:
+Sigma-DS should accept any date format that is in a correct PHP date format, the following characters are recognised and can be used:
 
 <!-- table required -->

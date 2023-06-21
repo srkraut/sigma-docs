@@ -1,6 +1,6 @@
 # Overview
 
-The Layout Designer is the heart of content creation in Xibo. Each time a new Layout is added, or an existing one needs a design change, the Layout Designer is used.
+The Layout Designer is the heart of content creation in Sigma-DS. Each time a new Layout is added, or an existing one needs a design change, the Layout Designer is used.
 
 On adding a new Layout, or clicking Design from the row menu of a Layout, the Layout Designer will open:
 ![Alt text](layoutImg1.png)

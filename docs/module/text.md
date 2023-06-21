@@ -46,7 +46,7 @@ Main Template - Toggle Off the Visual editor to enter text/HTML in the box provi
 Optional JavaScript Template - Provide JavaScript in the box provided.
 
 ```
-Additional Fonts can be added to this editor by uploading files to the Library. Please be aware that fonts have ‘preferences’ built into them known as OS/2 tags. Xibo checks these OS/2 preferences, and can use fonts with OS/2 tags 0 or 8. Fonts with other tags may not display correctly or you may receive an error on upload.
+Additional Fonts can be added to this editor by uploading files to the Library. Please be aware that fonts have ‘preferences’ built into them known as OS/2 tags. Sigma-DS checks these OS/2 preferences, and can use fonts with OS/2 tags 0 or 8. Fonts with other tags may not display correctly or you may receive an error on upload.
 ```
 
 ## Actions

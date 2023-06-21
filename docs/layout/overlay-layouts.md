@@ -1,6 +1,6 @@
 # Overlay Layouts
 
-Schedule as an Overlay Layout to tell Xibo to display the Layout on top of normally Scheduled Layouts. Overlays remain on top while your normal scheduled content changes underneath, particularly useful for logos, important information or emergency notices.
+Schedule as an Overlay Layout to tell Sigma-DS to display the Layout on top of normally Scheduled Layouts. Overlays remain on top while your normal scheduled content changes underneath, particularly useful for logos, important information or emergency notices.
 
 ## Create an Overlay Layout
 

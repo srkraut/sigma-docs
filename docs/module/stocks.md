@@ -3,7 +3,7 @@
 Display trade price information for stock listings on Layouts.
 
 ```
-The Stocks Module is configured for Xibo Cloud hosted customers with an API key provided as part of the service, so please skip the installation steps detailed below and continue from the Add Widget section.
+The Stocks Module is configured for Sigma-DS Cloud hosted customers with an API key provided as part of the service, so please skip the installation steps detailed below and continue from the Add Widget section.
 ```
 
 ## Installation
@@ -82,7 +82,7 @@ The template will be automatically scaled and should be designed for the intende
 - All elements must use absolute sizing in px, including fonts, margins, widths, heights, etc
 - If positioning is used, it must be from top,left
 - Templates can use bootstrap
-- The aspect ratio will be fixed by Xibo and sized to fit the Region
+- The aspect ratio will be fixed by Sigma-DS and sized to fit the Region
 - Templates are treated the same as a static image
 ```
 

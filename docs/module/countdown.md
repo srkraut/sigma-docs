@@ -42,7 +42,7 @@ The template will be automatically scaled and should be designed for the intende
 - All elements must use absolute sizing in px, including fonts, margins, widths, heights, etc
 - If positioning is used, it must be from top,left
 - Templates can use bootstrap
-- The aspect ratio will be fixed by Xibo and sized to fit the Region
+- The aspect ratio will be fixed by Sigma-DS and sized to fit the Region
 - Templates are treated the same as a static image
 ```
 
@@ -61,6 +61,6 @@ Interactive Actions can be attached to this Countdown Widget from the Actions ta
 
 ## Additional Information
 
-Xibo should accept any date format that is in a correct PHP date format, the following characters are recognised and can be used:
+Sigma-DS should accept any date format that is in a correct PHP date format, the following characters are recognised and can be used:
 
 <!-- table needs -->

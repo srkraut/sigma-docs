@@ -5,7 +5,7 @@ Display Twitter feeds on Layouts.
 The Twitter Module provides access to the Twitter Search API. Granted access is to read data only!
 
 ```
-The main set-up is provided as part of the service for Xibo Cloud hosted customers. Please follow the simplified process below to connect to the Twitter API.
+The main set-up is provided as part of the service for Sigma-DS Cloud hosted customers. Please follow the simplified process below to connect to the Twitter API.
 
 - Select Modules from the Administration section of the menu.
 - Click on the row menu for the Twitter Provider (Twitter Search) Module and select Connect to Twitter.
@@ -16,7 +16,7 @@ Skip the installation section below and go straight to the Add Widget section.
 
 ## Installation
 
-Access to the Twitter API is protected and so users must register for an API key which is then entered into the Twitter Metro Module in the Xibo CMS.
+Access to the Twitter API is protected and so users must register for an API key which is then entered into the Twitter Metro Module in the Sigma-DS CMS.
 
 ### Connecting to Twitter
 
@@ -111,7 +111,7 @@ The template will be automatically scaled and should be designed for the intende
 - All elements must use absolute sizing in px, including fonts, margins, widths, heights, etc
 - If positioning is used, it must be from top,left
 - Templates can use bootstrap
-- The aspect ratio will be fixed by Xibo and sized to fit the Region
+- The aspect ratio will be fixed by Sigma-DS and sized to fit the Region
 - Templates are treated the same as a static image
 ```
 
@@ -144,4 +144,4 @@ Interactive Actions can be attached to this Twitter Widget from the Actions tab.
 
 ### Date Format - PHP
 
-Xibo should accept any date format that is in a correct PHP date format, the following characters are recognised and can be used:
+Sigma-DS should accept any date format that is in a correct PHP date format, the following characters are recognised and can be used:

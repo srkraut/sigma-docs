@@ -92,7 +92,7 @@ The template will be automatically scaled and should be designed for the
 - All elements must use absolute sizing in px, including fonts, margins, widths, heights, etc
 - If positioning is used, it must be from top,left
 - Templates can use bootstrap
-- The aspect ratio will be fixed by Xibo and sized to fit the Region
+- The aspect ratio will be fixed by Sigma-DS and sized to fit the Region
 - Templates are treated the same as a static image
 ```
 
@@ -106,7 +106,7 @@ Once override has been selected, click back on the Templates tab to select the t
 
 ```
 A special notation is available where the User can specify the
- Tag|Namespace within the feed for Xibo to extract content.
+ Tag|Namespace within the feed for Sigma-DS to extract content.
 ```
 
 Optional Stylesheet - This is the CSS to apply to the template structure above.

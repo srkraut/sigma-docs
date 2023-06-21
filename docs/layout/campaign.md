@@ -81,7 +81,7 @@ Layouts can be directly assigned to Campaigns from the Layouts grid. Use the row
 
 ## Ad Campaigns
 
-Create Advertising Campaigns to be shown on selected Displays. Xibo will work out how many plays are needed to satisfy entered criteria and handle the scheduling automatically.
+Create Advertising Campaigns to be shown on selected Displays. Sigma-DS will work out how many plays are needed to satisfy entered criteria and handle the scheduling automatically.
 
 ```
 This Feature should be enabled for each User/User Group who requires access!
@@ -119,7 +119,7 @@ Tags and Folders can also be assigned to multiple Campaigns using the With Selec
 
 The new Ad Campaign record will be added to the grid.
 
-- Use the row menu and select Edit to provide the required criteria in order that Xibo can work out the play frequency:
+- Use the row menu and select Edit to provide the required criteria in order that Sigma-DS can work out the play frequency:
   ![Alt text](campaign9.png)
 - Provide Start and End Dates and Times for the Ad Campaign. (This is required information and cannot be left blank)
 - Select from available Displays and Display Groups to play this Ad Campaign on. (This is required information and cannot be left blank)

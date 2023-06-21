@@ -1,6 +1,6 @@
 # Modules
 
-All content displayed in Xibo is added/edited and served by a Media Module. Xibo has a wide variety of Modules to choose from with more being introduced with new releases.
+All content displayed in Sigma-DS is added/edited and served by a Media Module. Sigma-DS has a wide variety of Modules to choose from with more being introduced with new releases.
 
 Modules can be enabled/disabled from the Modules page under the Administration section of the Menu.
 ![Alt text](module1.png)
@@ -46,7 +46,7 @@ All of the core modules adopt this approach, with the exceptions noted below:
   It is shipped with all of the stock modules which can be enabled for use.
 
 ```
-We prevent the installation of your own or third-party modules with Xibo in the Cloud.
+We prevent the installation of your own or third-party modules with Sigma-DS in the Cloud.
 ```
 
 ## Installing new Modules

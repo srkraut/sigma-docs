@@ -1,13 +1,13 @@
 # Shell Command
 
-The Shell Command Module is used to instruct the Display to execute a command outside of the Xibo environment, using the operating system shell.
+The Shell Command Module is used to instruct the Display to execute a command outside of the Sigma-DS environment, using the operating system shell.
 
 ```
 NOTE: If you are using a CMS earlier than v3.0.0 please use the following link: Shell Command
 ```
 
 ```
-This Module is disabled by default for Xibo Cloud Hosted customers. If you would like to utilise the Shell Command functionality to execute actions on loading a Layout, then please contact our help desk via My Account to request to have this Module enabled.
+This Module is disabled by default for Sigma-DS Cloud Hosted customers. If you would like to utilise the Shell Command functionality to execute actions on loading a Layout, then please contact our help desk via My Account to request to have this Module enabled.
 ```
 
 The Command is executed when a Layout containing the Shell Command Widget plays at its scheduled time.
@@ -28,7 +28,7 @@ On adding, configuration options are shown in the properties panel:
 
 ```
 In most cases, commands that are run from a Layout tend to be background commands which trigger something to happen like screen on/off or restart the device etc. In such cases, leave the box unticked.
-If you need to run a command for a fixed period of time, for example where your command shows something on the screen for a time and cannot close itself, Xibo can be instructed to terminate the command it started running by ticking the box and specifying a duration.
+If you need to run a command for a fixed period of time, for example where your command shows something on the screen for a time and cannot close itself, Sigma-DS can be instructed to terminate the command it started running by ticking the box and specifying a duration.
 
 ```
 

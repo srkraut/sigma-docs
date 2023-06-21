@@ -12,7 +12,7 @@ DataSets are used to design and store tabular data which are created and managed
 - Maintain content without accessing Layouts.
 - Re-use across multiple Widgets and Layouts.
 - Create an RSS feed from a DataSet.
-  DataSets have been designed to be versatile so that they can be configured in a number of ways with the DataSet View/DataSet Ticker and Chart Widgets as well as a source of data for a custom Module. A DataSet provides a convenient way to import and display data from other systems in Xibo.
+  DataSets have been designed to be versatile so that they can be configured in a number of ways with the DataSet View/DataSet Ticker and Chart Widgets as well as a source of data for a custom Module. A DataSet provides a convenient way to import and display data from other systems in Sigma-DS.
 
 Examples of where DataSets could be utilised:
 
@@ -46,7 +46,7 @@ If the DataSet is not Remote, click to Save the DataSet record and go onto the C
 
 ## Creating Remote DataSets
 
-Remote DataSets are a special type of DataSet which will periodically sync from a 3rd party data source. Xibo will call the URL at a chosen time period and parse the data according to instructions set on the DataSet record and any Columns that have been defined as Remote.
+Remote DataSets are a special type of DataSet which will periodically sync from a 3rd party data source. Sigma-DS will call the URL at a chosen time period and parse the data according to instructions set on the DataSet record and any Columns that have been defined as Remote.
 
 On selecting Remote, additional tabbed fields are made available so that the Remote DataSet record can be fully completed:
 ![Alt text](dataset4.png)
@@ -173,7 +173,7 @@ Provide a JSON syntax string.
 - Set the position this Column should appear when viewing/editing Data.
   Use the additional options to enable Filters and Sorting for this column.
 
-Continue to add and configure Columns as required. There is no theoretical limit to the number of Columns Xibo can support, although a smaller DataSet is often easier to manage and display.
+Continue to add and configure Columns as required. There is no theoretical limit to the number of Columns Sigma-DS can support, although a smaller DataSet is often easier to manage and display.
 
 ```
 Columns can be viewed/added and edited by using the row menu for a DataSet record from the DataSets page!
@@ -232,7 +232,7 @@ If you have edited your CSV file using Excel, you will need to make sure you sel
 
 ## Through the API
 
-You can write your own application which syncs data into a DataSet using the Xibo API. Data can be added row by row or by importing whole JSON structures.
+You can write your own application which syncs data into a DataSet using the Sigma-DS API. Data can be added row by row or by importing whole JSON structures.
 
 Further discussion on the API can be viewed in the Developer documentation.
 

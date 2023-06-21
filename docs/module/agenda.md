@@ -81,7 +81,7 @@ Click on the Templates tab:
 
 ### Current Event
 
-Set alternative text and formatting to show Current Events. Xibo will use the Players date/time to work out if the event showing is current and switch to the Current Event template.
+Set alternative text and formatting to show Current Events. Sigma-DS will use the Players date/time to work out if the event showing is current and switch to the Current Event template.
 
 - Tick the box to Use an alternative template for Current Events.
 -

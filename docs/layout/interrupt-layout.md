@@ -1,6 +1,6 @@
 # Interrupt Layouts
 
-When a Layout is scheduled as an Interrupt Layout, Xibo will work out how it should be played between Layouts in the ‘usual schedule’ using the Share of Voice time or percentage entered on the event.
+When a Layout is scheduled as an Interrupt Layout, Sigma-DS will work out how it should be played between Layouts in the ‘usual schedule’ using the Share of Voice time or percentage entered on the event.
 
 ```
 This can be useful if you have, for example, Announcements that

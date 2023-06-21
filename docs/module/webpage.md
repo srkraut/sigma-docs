@@ -26,11 +26,11 @@ Once added, configuration options for this Widget will be shown in the propertie
   ![Alt text](webpage2.png)
 
 ```
-Available in Windows Players from v2 R253 select to render the webpage with a transparent background. Xibo will try its best to do this when enabled for pages which have a transparent background, however, it cannot be supported on some webpages.
+Available in Windows Players from v2 R253 select to render the webpage with a transparent background. Sigma-DS will try its best to do this when enabled for pages which have a transparent background, however, it cannot be supported on some webpages.
 ```
 
 ```
-After the page is rendered Xibo will scale to fit.
+After the page is rendered Sigma-DS will scale to fit.
 ```
 
 ```
@@ -41,7 +41,7 @@ Available in Android Players from v2 R207 select to preload the Widget off scree
 
 ## Open Natively
 
-With this selected, the Player will open the webpage without any alterations and will open and render in the browser as if the URL had been visited on the device outside Xibo.
+With this selected, the Player will open the webpage without any alterations and will open and render in the browser as if the URL had been visited on the device outside Sigma-DS.
 
 ```
 Please note: There is no preview available with this option!

@@ -2,7 +2,7 @@
 
 The Dashboards Widget is used to display Dashboards that have been configured to use the Dashboards Service
 
-Please note: This commercial Widget is part of the Xibo Dashboard Service available from v3.2.0 and requires an API for configuration as further explained here
+Please note: This commercial Widget is part of the Sigma-DS Dashboard Service available from v3.2.0 and requires an API for configuration as further explained here
 
 ## Add Widget
 
@@ -39,7 +39,7 @@ Please note: By default, reports in Power BI render with a US Date format. To us
 ```
 
 ![Alt text](dashboard3.png)
-Please note: If Xibo detects an error with a request for dashboard services, you will see a red banner message over the top of a screengrab to give an indication to the user where the problem has occurred. This will be shown in the Layout Designer previewer only for the logged in user. The Layout Preview and Displays showing the scheduled Layout will continue to show the last good capture or a spinner icon until the issue has been resolved.
+Please note: If Sigma-DS detects an error with a request for dashboard services, you will see a red banner message over the top of a screengrab to give an indication to the user where the problem has occurred. This will be shown in the Layout Designer previewer only for the logged in user. The Layout Preview and Displays showing the scheduled Layout will continue to show the last good capture or a spinner icon until the issue has been resolved.
 
 Example Error message with screengrab shown below:
 ![Alt text](dashboard4.png)

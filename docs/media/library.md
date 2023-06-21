@@ -116,7 +116,7 @@ It comes with a set of standard fonts provided by our text editor tool - CKEdito
 Additional fonts can be added to the Library using the uploader tool. Once added, the font will be available to use in the text editor.
 
 ```
-If the new font does not show in the text editor after upload, try clearing the browser cache! Please note: Fonts have preferences built into then known as OS/2 tags. Xibo checks for OS/2 preferences and can use fonts with OS/2 tags 0 or 8. Fonts with other OS/2 tags may produce an error on uploading and may not display correctly.
+If the new font does not show in the text editor after upload, try clearing the browser cache! Please note: Fonts have preferences built into then known as OS/2 tags. Sigma-DS checks for OS/2 preferences and can use fonts with OS/2 tags 0 or 8. Fonts with other OS/2 tags may produce an error on uploading and may not display correctly.
 ```
 
 Each item in the Library has a row menu where users can access a list of actions/shortcuts

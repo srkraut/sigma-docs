@@ -10,7 +10,7 @@ Whilst we work on this to make improvements please be aware of the following lim
 - Any Allergy information completed in the Product form will automatically show.
 - There is no limit to the amout of Product Options a Product can have which could result in them being incorrectly displayed if more than 2 are created.
 - Product Options does not have a maximum character length which could result in descriptions being incorrectly displayed.
-This feature preview is not available for Xibo Cloud hosted Customers.
+This feature preview is not available for Sigma-DS Cloud hosted Customers.
 
 ```
 

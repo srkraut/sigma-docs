@@ -3,7 +3,7 @@
 Actions can be attached to an entire Layout a particular Region or specific Widget and can be used to effect changes to the Layout. These can be triggered by Touch or Click or programmatically by webhook.
 
 ```
-Scenario: A Product display has a product that the customer can pick up. An ‘internet of things’ device, such as a light sensor could be used to trigger a webhook to Xibo which loads that particular products information into a Region to be shown.
+Scenario: A Product display has a product that the customer can pick up. An ‘internet of things’ device, such as a light sensor could be used to trigger a webhook to Sigma-DS which loads that particular products information into a Region to be shown.
 ```
 
 More information on webhooks can be found in our Developer documentation here

@@ -1,6 +1,6 @@
 # Embedded Content
 
-Embed HTML and JavaScript to be displayed on Layouts. This allows for custom enhancements to be made to Xibo without modifying the core application.
+Embed HTML and JavaScript to be displayed on Layouts. This allows for custom enhancements to be made to Sigma-DS without modifying the core application.
 
 ```
 Examples of where this might be useful are displaying a Clock or Weather region.
@@ -55,7 +55,7 @@ Use a CSS style sheet to control the visual styling.
 
 Enter the content to put in the HEAD of the document in the box provided.
 
-JavaScript should be wrapped in script tags. Xibo will automatically add jQuery.
+JavaScript should be wrapped in script tags. Sigma-DS will automatically add jQuery.
 
 The EmbedInit() method will be called by the Player and can be used to safely start any custom JavaScript at the appropriate time. The method is defaulted on any new Embedded media Item.
 
