@@ -48,7 +48,7 @@ Please note: There is no preview available with this option!
 ```
 
 From v3.1.0, there is an additional feature with a mechanism to trigger a web hook for an active action (navigate to Widget, navigate to Layout a Scheduled Command etc) to be shown in the event the webpage returns an error and fails to load.
-![Alt text](webpage3.png)
+
 Enter the Trigger Code of a configured Action to match against a supplied web hook trigger parameter.
 
 Further information about configuring Interactive Actions can be found here
@@ -75,5 +75,4 @@ Use this X-Frame-Options Header Checker Tool to see if the header has been set f
 
 ## Actions
 
-![Alt text](webpage7.png)
 Interactive Actions can be attached to this Widget.
