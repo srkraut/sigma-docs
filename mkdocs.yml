@@ -1,6 +1,14 @@
 site_name: Sigma Docs
+site_url: https://doc.sigma-ds.com/tour/introduction/
 theme:
   name: material
+  palette:
+    primary: deep orange
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs.sticky
+    - navigation.path
 
 nav:
   - Tour: 
